@@ -3,7 +3,7 @@
 This repository contains hands-on analysis of real-world malware network traffic using **Wireshark**, with a focus on **Agent Tesla** data exfiltration over **FTP** and **SMTP** protocols. The goal is to practice detecting intrusions, analyzing IOCs, and documenting malicious behavior observed in packet captures.
 
 > 🔐 All PCAP files were obtained from [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/)  
-> Password to unzip: `infected`
+
 
 ---
 ## 📘 Case Studies
